@@ -1,0 +1,14 @@
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Entities.dll
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\davi\E-COMMERCE-AULA-24-main\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
